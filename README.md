@@ -14,7 +14,7 @@ Olá! Sou Luísa de Souza Ferreira, tenho 19 anos e sou natural de Brasília. Co
     />
 </a>
 
-<a href="https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/luisa-de-souza-ferreira-a21a001a4/" target="_blank">
+<a href="https://www.linkedin.com/in/luisa-de-souza-ferreira-a21a001a4/" target="_blank">
     <img 
         alt="LinkedIn" 
         title="Me adicione no LinkedIn" 
