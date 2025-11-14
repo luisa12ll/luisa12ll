@@ -1,11 +1,14 @@
-# 👩🏻‍💻Luísa de Souza Ferreira
 
-**`Desenvolvedora FullStack`**
+<div align="center">
 
-Olá! Sou Luísa de Souza Ferreira, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio integrado ao curso técnico em Informática no Instituto Federal de Brasília (IFB). Atualmente, sou estudante de Engenharia de Software na Universidade de Brasília (UnB). Sou apaixonada por tecnologia e desenvolvimento de software. Gosto de trabalhar tanto no front-end quanto no back-end e estou sempre em busca de novos aprendizados, desafios e oportunidades para evoluir como desenvolvedora full stack.
+# 👩🏻‍💻 Luísa de Souza Ferreira
+**`Desenvolvedora FullStack | Estudante de Engenharia de Software na UnB`**
 
+### Olá, eu sou a Luísa! 👋
+
+Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e Técnica em Informática pelo Instituto Federal de Brasília (IFB). Minha paixão é a tecnologia e o desenvolvimento de software, com experiência em projetos **Front-end** e **Back-end**. Atualmente, estou direcionando meus estudos e minha carreira para a área de **Segurança da Informação** 🛡️. Meu objetivo é unir o conhecimento de desenvolvimento full stack com as melhores práticas de *Secure Coding* e *DevSecOps*, criando aplicações que não sejam apenas funcionais e eficientes, mas também robustas e seguras. Estou sempre em busca de novos desafios e oportunidades para evoluir como uma desenvolvedora com foco em segurança.
 <p align="left">
-
+<div align="center">
    <a href="mailto:luisasouzalinda90@gmail.com">
     <img 
         alt="Gmail" 
@@ -40,121 +43,46 @@ Olá! Sou Luísa de Souza Ferreira, tenho 19 anos e sou natural de Brasília. Co
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+   
+### 📖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
+   
+</div>
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+<div align="center">
+   
+<img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img alt="JQuery" title="JQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+<img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+<img alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <br/>
 <br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisa12ll/luisa12ll/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisa12ll/luisa12ll/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luisa12ll/luisa12ll/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://github.com/luisa12ll/luisa12ll/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🌸 GitHub Stats:
+
+![Luísa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisa12ll&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff9fd8&icon_color=ff9fd8&text_color=fef6f9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisa12ll&layout=compact&theme=rose_pine&hide_border=true&title_color=ff9fd8&text_color=fef6f9)
+![GitHub Streak](https://streak-stats.demolab.com?user=luisa12ll&theme=rose_pine&hide_border=true&ring=ff9fd8&fire=ff9fd8&currStreakLabel=ff9fd8)
