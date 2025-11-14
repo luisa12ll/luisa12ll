@@ -75,14 +75,15 @@ Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e
 
 ---
 
-## 🐍 Minhas Contribuições
-
-![Snake animation](https://github.com/luisa12ll/luisa12ll/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 🌸 GitHub Stats:
 
 ![Luísa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisa12ll&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff9fd8&icon_color=ff9fd8&text_color=fef6f9)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisa12ll&layout=compact&theme=rose_pine&hide_border=true&title_color=ff9fd8&text_color=fef6f9)
 ![GitHub Streak](https://streak-stats.demolab.com?user=luisa12ll&theme=rose_pine&hide_border=true&ring=ff9fd8&fire=ff9fd8&currStreakLabel=ff9fd8)
+
+---
+
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://github.com/luisa12ll/luisa12ll/blob/output/github-contribution-grid-snake-dark.svg)
+
