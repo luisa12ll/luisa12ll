@@ -6,7 +6,7 @@
 
 ### Olá, eu sou a Luísa! 👋
 
-Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e Técnica em Informática pelo Instituto Federal de Brasília (IFB). Minha paixão é a tecnologia e o desenvolvimento de software, com experiência em projetos **Front-end** e **Back-end**. Atualmente, estou direcionando meus estudos e minha carreira para a área de **Segurança da Informação** 🛡️. Meu objetivo é unir o conhecimento de desenvolvimento full stack com as melhores práticas de *Secure Coding* e *DevSecOps*, criando aplicações que não sejam apenas funcionais e eficientes, mas também robustas e seguras. Estou sempre em busca de novos desafios e oportunidades para evoluir como uma desenvolvedora com foco em segurança.
+Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e Técnica em Informática pelo Instituto Federal de Brasília (IFB). Minha paixão é a tecnologia e o desenvolvimento de software, com experiência em projetos **Front-end** e **Back-end**. Atualmente, estou direcionando meus estudos e minha carreira para a área de ** 🛡️ Segurança da Informação**. Meu objetivo é unir o conhecimento de desenvolvimento full stack com as melhores práticas de *Secure Coding* e *DevSecOps*, criando aplicações que não sejam apenas funcionais e eficientes, mas também robustas e seguras. Estou sempre em busca de novos desafios e oportunidades para evoluir como uma desenvolvedora com foco em segurança.
 <p align="left">
 <div align="center">
    <a href="mailto:luisasouzalinda90@gmail.com">
