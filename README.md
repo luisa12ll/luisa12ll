@@ -48,8 +48,6 @@ Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e
    
 ### 📖 Linguagens e Tecnologias
 
-
-
    
 </div>
 
