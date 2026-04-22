@@ -24,6 +24,7 @@ Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
     />
 </a>
+
 <a href="https://github.com/luisa12ll?tab=followers">
         <img 
             alt="Seguidores" 
@@ -80,6 +81,7 @@ Sou estudante de **Engenharia de Software** na Universidade de Brasília (UnB) e
 ![GitHub Streak](https://streak-stats.demolab.com?user=luisa12ll&theme=rose_pine&hide_border=true&ring=ff9fd8&fire=ff9fd8&currStreakLabel=ff9fd8)
 
 ---
+
 
 ## 🐍 Minhas Contribuições
 
